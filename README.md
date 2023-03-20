@@ -19,3 +19,20 @@ https://user-images.githubusercontent.com/54209182/226222571-d0af3451-072a-47aa-
 SSolver.py is with no imports, needs to manually add a board into the SSolver.py file in the boards part, First prints input board and then the solved board.
 
 ![sudoku](https://user-images.githubusercontent.com/54209182/226075525-f33c0454-6c25-452b-80a2-f81de7e0a942.png)
+
+
+```python
+example board
+
+board = [
+    [8, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 3, 6, 0, 0, 0, 0, 0],
+    [0, 7, 0, 0, 9, 0, 2, 0, 0],
+    [0, 5, 0, 0, 0, 7, 0, 0, 0],
+    [0, 0, 0, 0, 4, 5, 7, 0, 0],
+    [0, 0, 0, 1, 0, 0, 0, 3, 0],
+    [0, 0, 1, 0, 0, 0, 0, 6, 8],
+    [0, 0, 8, 5, 0, 0, 0, 1, 0],
+    [0, 9, 0, 0, 0, 0, 4, 0, 0]
+]
+```
