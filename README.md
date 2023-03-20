@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/54209182/226222571-d0af3451-072a-47aa-
 ------------------------------------------------
 
 
-SSolver.py is with no imports, needs to manually add a board into the SSolver.py file in the boards part, First prints input board and then the solved board.
+SSolver.py is with no imports, needs to manually add a board into the SSolver.py file in the boards part. First prints input board and then the solved board.
 
 ![sudoku](https://user-images.githubusercontent.com/54209182/226075525-f33c0454-6c25-452b-80a2-f81de7e0a942.png)
 
