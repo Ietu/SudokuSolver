@@ -4,6 +4,7 @@ Two sudoku solvers, both use backtracking technique.
 Uses Arto Inkala Sudoku for example
 
 CurseSolver.py uses [Curses](https://docs.python.org/3/howto/curses.html) library to make a nice grid where you can input the board you want to solve.
+
 Move with arrow keys, numbers 1-9 to input numbers 0 to reset a number. Press `Q` to solve the board. Fast for 18 > clue puzzles, a bit slower for 16 and 17 clue puzzles.
 
 https://user-images.githubusercontent.com/54209182/226222571-d0af3451-072a-47aa-940c-1d51684fc9ee.mp4
