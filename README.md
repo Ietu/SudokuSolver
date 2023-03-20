@@ -21,9 +21,8 @@ SSolver.py is with no imports, needs to manually add a board into the SSolver.py
 ![sudoku](https://user-images.githubusercontent.com/54209182/226075525-f33c0454-6c25-452b-80a2-f81de7e0a942.png)
 
 
-```python
 example board
-
+```python
 board = [
     [8, 0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 3, 6, 0, 0, 0, 0, 0],
