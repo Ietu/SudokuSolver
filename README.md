@@ -3,7 +3,7 @@ Two sudoku solvers, both use backtracking technique.
 
 Uses Arto Inkala Sudoku for example
 
-CurseSolver.py uses [Curses](https://docs.python.org/3/howto/curses.html) library to make a nice grid where you can input the board you want to solve.
+CurseSolver.py uses [Curses](https://docs.python.org/3/howto/curses.html) library to make grid where you can input the board you want to solve.
 
 Move with arrow keys, numbers 1-9 to input numbers 0 to reset a number. Press `Q` to solve the board. Fast for 18 > clue puzzles, a bit slower for 16 and 17 clue puzzles.
 
